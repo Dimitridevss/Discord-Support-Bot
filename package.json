@@ -7,7 +7,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "dimitri",
+  "author": "wick",
   "license": "MIT",
   "dependencies": {
     "@discordjs/voice": "^0.16.0",
