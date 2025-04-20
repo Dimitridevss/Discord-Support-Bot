@@ -39,8 +39,8 @@ async function joinVoiceChannelAndPlay() {
 
 client.once('ready', async () => {
     console.log('Bot is ready');
-    console.log('Code by Wick Studio');
-    console.log('discord.gg/wicks');
+    console.log('Code by dimitri');
+    console.log('discord.gg/');
 
     client.on('voiceStateUpdate', async (oldState, newState) => {
         const oldChannel = oldState.channel;
